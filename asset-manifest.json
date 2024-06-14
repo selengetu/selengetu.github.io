@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/%7Bportfolio%7D/static/css/main.eeba2ef2.css",
-    "main.js": "/%7Bportfolio%7D/static/js/main.ba0e0a62.js",
-    "static/js/415.4d6acbeb.chunk.js": "/%7Bportfolio%7D/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/%7Bportfolio%7D/static/js/787.1ed0c42c.chunk.js",
-    "static/media/image1.png": "/%7Bportfolio%7D/static/media/image1.52527558a4046ad603de.png",
-    "static/media/image2.png": "/%7Bportfolio%7D/static/media/image2.c066b745d2dee9f7ccd2.png",
-    "static/media/leaf.png": "/%7Bportfolio%7D/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/%7Bportfolio%7D/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/%7Bportfolio%7D/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/%7Bportfolio%7D/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/%7Bportfolio%7D/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/Selenge_Resume.pdf": "/%7Bportfolio%7D/static/media/Selenge_Resume.33ad75979ba060f5fc8d.pdf",
-    "static/media/home-main.svg": "/%7Bportfolio%7D/static/media/home-main.ba444866df8425f0bab06df06a3ab71a.svg",
-    "static/media/chatify.png": "/%7Bportfolio%7D/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/home-bg.jpg": "/%7Bportfolio%7D/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/%7Bportfolio%7D/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/%7Bportfolio%7D/index.html",
-    "main.eeba2ef2.css.map": "/%7Bportfolio%7D/static/css/main.eeba2ef2.css.map",
-    "main.ba0e0a62.js.map": "/%7Bportfolio%7D/static/js/main.ba0e0a62.js.map",
-    "415.4d6acbeb.chunk.js.map": "/%7Bportfolio%7D/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/%7Bportfolio%7D/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.1d4efdcc.css",
+    "main.js": "/static/js/main.7b04dcdb.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/image1.png": "/static/media/image1.52527558a4046ad603de.png",
+    "static/media/image2.png": "/static/media/image2.c066b745d2dee9f7ccd2.png",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/Selenge_Resume.pdf": "/static/media/Selenge_Resume.33ad75979ba060f5fc8d.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.ba444866df8425f0bab06df06a3ab71a.svg",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.1d4efdcc.css.map": "/static/css/main.1d4efdcc.css.map",
+    "main.7b04dcdb.js.map": "/static/js/main.7b04dcdb.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eeba2ef2.css",
-    "static/js/main.ba0e0a62.js"
+    "static/css/main.1d4efdcc.css",
+    "static/js/main.7b04dcdb.js"
   ]
 }
