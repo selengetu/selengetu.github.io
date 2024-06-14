@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/%3Cportfolio%3E/static/css/main.dae85d72.css",
+    "main.js": "/%3Cportfolio%3E/static/js/main.1372ae21.js",
+    "static/js/415.4d6acbeb.chunk.js": "/%3Cportfolio%3E/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/%3Cportfolio%3E/static/js/787.1ed0c42c.chunk.js",
+    "static/media/image1.png": "/%3Cportfolio%3E/static/media/image1.52527558a4046ad603de.png",
+    "static/media/image2.png": "/%3Cportfolio%3E/static/media/image2.c066b745d2dee9f7ccd2.png",
+    "static/media/leaf.png": "/%3Cportfolio%3E/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/%3Cportfolio%3E/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/%3Cportfolio%3E/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/%3Cportfolio%3E/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/%3Cportfolio%3E/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/Selenge_Resume.pdf": "/%3Cportfolio%3E/static/media/Selenge_Resume.33ad75979ba060f5fc8d.pdf",
+    "static/media/home-main.svg": "/%3Cportfolio%3E/static/media/home-main.ba444866df8425f0bab06df06a3ab71a.svg",
+    "static/media/chatify.png": "/%3Cportfolio%3E/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/%3Cportfolio%3E/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/%3Cportfolio%3E/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/%3Cportfolio%3E/index.html",
+    "main.dae85d72.css.map": "/%3Cportfolio%3E/static/css/main.dae85d72.css.map",
+    "main.1372ae21.js.map": "/%3Cportfolio%3E/static/js/main.1372ae21.js.map",
+    "415.4d6acbeb.chunk.js.map": "/%3Cportfolio%3E/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/%3Cportfolio%3E/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dae85d72.css",
+    "static/js/main.1372ae21.js"
+  ]
+}
