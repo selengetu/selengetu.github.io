@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2e0f81d4.css",
-    "main.js": "/static/js/main.2ff8ebbd.js",
+    "main.js": "/static/js/main.62911619.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/image1.png": "/static/media/image1.52527558a4046ad603de.png",
@@ -11,19 +11,19 @@
     "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/Selenge_Resume_Dec.pdf": "/static/media/Selenge_Resume_Dec.d55205d7b7044928cd95.pdf",
+    "static/media/Selenge_Resume_2025.pdf": "/static/media/Selenge_Resume_2025.db0e013a3226a6345eb4.pdf",
     "static/media/home-main.svg": "/static/media/home-main.ba444866df8425f0bab06df06a3ab71a.svg",
     "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.2e0f81d4.css.map": "/static/css/main.2e0f81d4.css.map",
-    "main.2ff8ebbd.js.map": "/static/js/main.2ff8ebbd.js.map",
+    "main.62911619.js.map": "/static/js/main.62911619.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e0f81d4.css",
-    "static/js/main.2ff8ebbd.js"
+    "static/js/main.62911619.js"
   ]
 }
